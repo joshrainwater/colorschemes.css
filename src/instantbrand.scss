@@ -1,0 +1,38 @@
+.brand-primary {
+	color: $primary;
+}
+.bg--brand-primary {
+	background-color: $primary;
+}
+
+.brand-secondary {
+	color: $secondary;
+}
+.bg--brand-secondary {
+	background-color: $secondary;
+}
+
+.brand-highlight {
+	color: $highlight;
+}
+.bg--brand-highlight {
+	background-color: $highlight;
+}
+
+.brand-neutral {
+	color: $neutral;
+}
+.bg--brand-neutral {
+	background-color: $neutral;
+}
+
+.brand-font-main {
+	// @if($font-main != null) {
+		// font-family: $font-main;
+	// }
+}
+.brand-font-secondary {
+	// @if variable_exists($font-secondary) {
+		// font-family: $font-secondary;
+	// }
+}

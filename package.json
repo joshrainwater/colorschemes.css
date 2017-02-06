@@ -1,0 +1,21 @@
+{
+  "name": "instantbrand",
+  "version": "0.1.0",
+  "description": "Include a single file to brand your entire website!",
+  "author": "Josh Rainwater <josh@jmrainwater.com>",
+  "main": "instantbrand.css",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "homepage": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-foreach": "^0.1.0",
+    "gulp-inject-string": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0"
+  }
+}
